@@ -1,2 +1,0 @@
-# mydat
-my project
